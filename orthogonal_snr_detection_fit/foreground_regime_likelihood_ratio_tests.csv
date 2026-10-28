@@ -1,0 +1,4 @@
+comparison,LR_statistic,df,p_value
+M0: SNR only -> M1: + regime intercept,30529.674679337797,1,0.0
+M1: + regime intercept -> M2: + regime slope interaction,85.86111339797935,1,1.9302753793790112e-20
+M0: SNR only -> M2: + regime slope interaction,30615.535792735776,2,0.0
